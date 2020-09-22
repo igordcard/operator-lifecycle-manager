@@ -24,7 +24,7 @@ require (
 	github.com/maxbrunsfeld/counterfeiter v0.0.0-20181017030959-1aadac120687
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
-	github.com/operator-framework/operator-registry v1.0.4
+	github.com/igordcard/operator-registry v0.9.99
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/pkg/errors v0.8.0
 	github.com/prometheus/client_golang v0.9.1
